@@ -1,6 +1,6 @@
 # Offline Uwufufu-Like Tournament
 
-A desktop tournament app built with Python, PyQt6, and Qt WebEngine. It loads contestants from an Excel workbook, displays their links side by side, and records the winner of each group to create the next tournament round.
+A desktop tournament app built in 2024 when the Uwufufu website was shut down, using Python, PyQt6, and Qt WebEngine. It loads contestants from an Excel workbook, displays their links side by side, and records the winner of each group to create the next tournament round.
 
 - Load an `.xlsx` workbook without modifying the source file.
 - Compare contestants in a group using their links in embedded browser views.
